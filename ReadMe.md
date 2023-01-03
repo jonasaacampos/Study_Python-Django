@@ -1,11 +1,43 @@
-# Desenvolvimento Web com Django Framework
+<p align="center">
+<a href='https://github.com/jonasaacampos'><img src='https://img.shields.io/badge/feito%20com%20%E2%9D%A4%20por-jaac-cyan'></a>
+<a href='https://www.linkedin.com/in/jonasaacampos'><img src='https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8'></a>
+</p>
 
-Python é uma linguagem promissora para diversos fins com destaque para
+<p align="center">
+   <a href='https://github.com/jonasaacampos'>
+      <img alt="" src="https://img.shields.io/static/v1?color=blue&label=django&message=framework&style=for-the-badge&logo=django"/>
+      </a>
+      <img alt="" src="https://img.shields.io/static/v1?color=green&label=python&message=programing&style=for-the-badge&logo=python"/>
+      </a>
+</p>
 
-- IA
-- Computação Quântica
+<h1>Desenvolvimento Web com Django Framework</h1>
 
-O Django é um framework poderoso e completo que utiliza python para aplicações web.
+<img alt="logo desc..." src="img/django-hexbin.png" width=150 align=right>
+
+
+> Python é uma linguagem promissora para diversos fins com destaque para
+> - IA
+> - Computação Quântica
+> 
+> O Django é um framework poderoso e completo que utiliza python para aplicações web.
+>
+> Aqui temos anotações gerais para futuras consultas. É meu primeiro contato com este framewor, e há um [Projeto aqui](DjangoProjects) para consulta.
+
+<h2>Índice</h2>
+
+- [Base de programação web](#base-de-programação-web)
+- [Django Básico](#django-básico)
+  - [Instalação](#instalação)
+  - [Criar projeto](#criar-projeto)
+  - [Rodar Projeto](#rodar-projeto)
+  - [MTV Deseign Pattern](#mtv-deseign-pattern)
+  - [Migrations](#migrations)
+  - [Area admin](#area-admin)
+  - [Models](#models)
+  - [Django shell](#django-shell)
+- [Referências](#referências)
+
 
 <!-- 
 <details>
@@ -143,3 +175,6 @@ STATIC_ROOT = Path(BASE_DIR, "static_files")
 
 </details> 
 
+## Referências
+
+- [Django Docs](https://docs.djangoproject.com/en/4.1/)
